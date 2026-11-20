@@ -1,0 +1,36 @@
+
+# .NET
+bin/
+obj/
+.vs/
+*.user
+*.suo
+
+# React / Node
+node_modules/
+dist/
+build/
+.env
+.env.local
+.env.development.local
+.env.production.local
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# IDE
+.idea/
+.vscode/
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+# Application secrets
+appsettings.json
+appsettings.Development.json
